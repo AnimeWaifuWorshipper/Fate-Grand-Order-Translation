@@ -12,26 +12,27 @@
 [fadein black 1]
 [wait fade]
 ＠アルトリア
-ここが聖杯戦争の発端となった土地、フユキ……
+Land here was the beginning of the Holy Grail War, Fuyuki City......
 [k]
 
 [charaFace D 4]
 ＠アルトリア
-ひどいものです。[r]この炎は十年や二十年では消えないでしょう。
+That's so bad.[r]This flame will not disappear in a ten years or twenty years.
 [k]
 
 ＠アルトリア
-呪いが土地そのものに染みついている。[r]ここはもう人間の住める場所ではありません。
+Curse is ingrained in the land itself.[r]This place can't live a people.
 [k]
 
 [charaFadeout D 0.1]
 [communicationChara 98003003 1 5 0 5]
 [wt 0.3]
 ＠Dr.ロマン
-そのようだね。[r]似たような街はアメリカにもあるらしいよ。
+I think so.[r]Town similar seems there is also in the United States.
 [k]
 
 ＠Dr.ロマン
+
 地上には火災、地下にはガスが充満して、[r]あと五十年は燃え続ける見込みだとか。
 [k]
 
@@ -45,14 +46,14 @@
 [charaFace D 0]
 [charaFadein D 0.1 1]
 ＠アルトリア
-魔術的な災害……[r]貴方はどう思いますか、マスター？
+Magical disaster......[r]What do you think, Master?
 [k]
 
 ？1：きっと聖杯のせいだ
 
 [charaFace D 4]
 ＠アルトリア
-聖杯が原因、なのですね。……私としては否定したい[r]ところですが、どうしようもない事実なのですね。
+Cause the Holy Grail. ......I want to deny, [r]but it's a fact......
 [k]
 
 ？2：特異点になったからだ
@@ -79,7 +80,7 @@
 
 [charaFace D 4]
 ＠アルトリア
-……申し訳ありません。
+......I'm sorry.
 [k]
 
 [charaFace D 0]
@@ -132,7 +133,7 @@
 
 [charaFace D 1]
 ＠アルトリア
-はい。感謝しますマスター。[r]ではさしあたって、その信頼に応えると致しましょう。
+Thank you, Master.[r]ではさしあたって、その信頼に応えると致しましょう。
 [k]
 
 [charaFace D 0]
@@ -143,7 +144,7 @@
 [bgm BGM_EVENT_3 0.1]
 [charaFace A 7]
 ＠マシュ
-今のうなり声は……！[r]敵性反応です、先輩！
+Now the growl is ......![r]It's the enemy reaction, Senior!
 [k]
 
 ＠アルトリア
