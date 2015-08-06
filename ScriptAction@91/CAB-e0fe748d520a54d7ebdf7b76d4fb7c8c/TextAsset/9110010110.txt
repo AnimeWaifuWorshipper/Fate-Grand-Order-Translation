@@ -32,7 +32,7 @@ It seems that way, doesn’t it？[r]There looks to be a town that resembles thi
 [k]
 
 ＠Dr. Roman
-A fire ravages the surface and gases permeate the underground. [r]It’s expected to continue burning for five more years, or something along those lines。
+A fire ravages the surface and gases permeates the underground. [r]It’s expected to continue burning for five more years, or something along those lines。
 [k]
 
 [communicationCharaFace 0]
